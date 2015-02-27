@@ -1,2 +1,2 @@
 Rivi 1
-Kaksi käyttäjää lisää riville 2 oman sisältöntä ja syntyy konflikti
+Two users make changes to row 2 and conflict occurs.
