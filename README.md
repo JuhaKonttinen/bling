@@ -1,2 +1,3 @@
 Rivi 1
-Two users make changes to row 2 and conflict occurs.
+English: Two users make changes to row 2 and conflict occurs.
+Svenska: Två gjorde nånting på samma tiden.
